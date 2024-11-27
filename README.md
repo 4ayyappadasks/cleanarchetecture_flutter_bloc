@@ -34,7 +34,7 @@ The app uses **flutter_bloc** and **bloc** packages for state management, ensuri
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/4ayyappadasks/cleanarchetecture_flutter_bloc
+   https://github.com/4ayyappadasks/cleanarchetecture_flutter_bloc
    ```
 2. Navigate to the project directory:
    ```bash
