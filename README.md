@@ -53,8 +53,8 @@ The app uses **flutter_bloc** and **bloc** packages for state management, ensuri
 ```plaintext
 lib/
 ├── common/          # Shared constants and utilities
-├── data/            # Data layer (API, local database, repositories)
-├── domain/          # Domain layer (Entities, use cases)
+├── data/            # Data layer (API, local database, repositoriesimpl)
+├── domain/          # Domain layer (Entities, use cases , repositories)
 ├── presentation/    # Presentation layer (UI, BLoC)
 ```
 
