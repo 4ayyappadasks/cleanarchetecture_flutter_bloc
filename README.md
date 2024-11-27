@@ -1,5 +1,3 @@
-
-```markdown
 # Clean Architecture Flutter App
 
 ![App Architecture](assets/FLutterbloc.png)
