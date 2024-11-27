@@ -58,19 +58,4 @@ lib/
 ├── presentation/    # Presentation layer (UI, BLoC)
 ```
 
-## Screenshots
-![Splash Screen](assets/splash.png)  
-![Login Screen](assets/login.png)  
-![Home Screen](assets/home.png)  
-![Details Screen](assets/details.png)
-
 ---
-
-Feel free to explore the app and provide your valuable feedback! 😊
-```
-
-### Key Notes:
-1. Replace the `assets/splash.png`, `assets/login.png`, etc., in the **Screenshots** section with the appropriate image paths in your repository.
-2. The image you provided (`FLutterbloc.png`) is included at the top of the README under the heading.
-
-You can now add this `README.md` file to your repository for a clean and professional presentation.
